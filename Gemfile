@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 
+ruby '2.2.3'
+
 gem 'activerecord', '~> 4.0'
 gem 'activesupport', '~> 4.0'
 gem 'dalli', '~> 2.0'
